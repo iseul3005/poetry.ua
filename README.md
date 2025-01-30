@@ -1,2 +1,2 @@
 # poetry.ua
-Tech Skills for managers  
+Репозиторій з українськими віршами
